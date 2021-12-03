@@ -1,0 +1,5 @@
+fastcluster
+numpy
+scipy
+pytest-shutil
+biopython
