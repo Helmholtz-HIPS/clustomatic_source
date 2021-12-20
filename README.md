@@ -1,10 +1,10 @@
-# clustomatic_TEST
+# clustomatic_source
 Software tool that classifies biosynthetic gene clusters into groups
 
 # Installation
 ```
-git clone https://github.com/Helmholtz-HIPS/clustomatic_TEST
-cd clustomatic_TEST
+git clone https://github.com/Helmholtz-HIPS/clustomatic_source
+cd clustomatic_source
 pip3 install -r requirements.txt
 ```
 
